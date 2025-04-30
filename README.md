@@ -20,7 +20,7 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
 
 2.  **Open Chrome Extensions Page:**
     *   Open the Google Chrome browser.
-    *   Type `chrome://extensions` into the address bar and press Enter.
+    *   Click the three dots (⋮) in the top-right corner of the browser -> select the Extensions option (🧩), then click Manage Extensions. OR Type `chrome://extensions` into the address bar and press Enter.
 
 3.  **Enable Developer Mode:**
     *   Look for the "Developer mode" toggle switch, usually located in the top-right corner of the Extensions page.
