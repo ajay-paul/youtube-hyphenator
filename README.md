@@ -20,7 +20,7 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
 
 2.  **Open Chrome Extensions Page:**
     *   Open the Google Chrome browser.
-    *   Click the three dots (⋮) in the top-right corner of the browser -> select the Extensions option (🧩), then click Manage Extensions. OR Type `chrome://extensions` into the address bar and press Enter.
+    *   Click the three dots (⋮) in the top-right corner of the browser -> select the Extensions option (🧩), then click Manage Extensions. **OR** Type `chrome://extensions` into the address bar and press Enter.
 
 3.  **Enable Developer Mode:**
     *   Look for the "Developer mode" toggle switch, usually located in the top-right corner of the Extensions page.
@@ -45,7 +45,10 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
 
 2.  **Navigate to YouTube:**
     *   Go to `youtube.com` or click on any YouTube video link.
-    *   The extension (if enabled by default or in the popup) will automatically try to redirect your browser to the `yout-ube.com` version of the URL. You'll see the address bar change.
+    *   Enable the toggle button in the pop-up and press refresh button
+    *   Enable pin to toolbar option for easy access
+    *   **If the video shows "This video is not available"** or similar errors: **Try reloading the page ** 
+    *   If reloading doesn't work after several attempts, the video might genuinely be unavailable via the `yout-ube.com` method, or the service itself might be down or malfunctioning.
 
 3.  **Using the Toggle:**
     *   Click the extension's icon in your toolbar.
@@ -53,9 +56,6 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
     *   **Enable:** If the toggle is off ("Disabled"), click it to turn the redirection **ON**. The extension will now redirect `youtube.com` URLs.
     *   **Disable:** If the toggle is on ("Enabled"), click it to turn the redirection **OFF**. The extension will stop redirecting, and `youtube.com` will load normally.
 
-4.  **Watching Videos (Troubleshooting Flow):**
-    *   **If the video shows "This video is not available" or similar errors:** The `yout-ube.com` service might be having trouble loading the specific video. **Try reloading the page** (press `F5` or click the browser's reload button) a few times. This sometimes helps establish the connection through their service.
-    *   If reloading doesn't work after several attempts, the video might genuinely be unavailable via the `yout-ube.com` method, or the service itself might be down or malfunctioning.
 
 ## License
 
