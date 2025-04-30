@@ -31,6 +31,8 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
     *   A file browser window will open. Navigate to and select the folder where you downloaded or cloned the extension files (the `youtube-hyphenator-extension` folder containing `manifest.json`, `background.js`, etc.). **Select the entire folder, not individual files inside it.**
     *   Click "Select Folder" or "Open".
 
+![Y-T](https://github.com/user-attachments/assets/659e1dff-60c3-4e6c-b19c-ae64fac6b2f4)
+
 5.  **Confirm Installation:**
     *   The "YouTube URL Hyphenator" extension should now appear in your list of extensions.
     *   Ensure the toggle switch next to it on the `chrome://extensions` page is enabled (usually blue).
