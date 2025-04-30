@@ -12,7 +12,7 @@
 Since this extension is not on the Chrome Web Store, you need to load it manually as an "unpacked extension":
 
 1.  **Download/Clone the Repository:**
-    *   **Option A (Download ZIP):** Click the green "Code" button on the GitHub repository page, then click "Download ZIP". Extract the contents of the ZIP file to a folder on your computer (e.g., `youtube-hyphenator`).
+    *   **Option A (Download ZIP):** Click the blue "Code" button on the GitHub repository page, then click "Download ZIP". Extract the contents of the ZIP file to a folder on your computer (e.g., `youtube-hyphenator`).
     *   **Option B (Git Clone):** If you have Git installed, open a terminal or command prompt and run:
         ```bash
         git clone https://github.com/ajay-paul/youtube-hyphenator.git youtube-hyphenator-extension
