@@ -59,4 +59,4 @@ Since this extension is not on the Chrome Web Store, you need to load it manuall
 
 ## License
 
-[Specify your chosen license here, e.g., MIT License]
+MIT License
