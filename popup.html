@@ -1,16 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>YouTube Hyphenator</title>
+  <title>YouTube Ads Remover</title>
   <link rel="stylesheet" href="popup.css">
 </head>
 <body>
-  <h3>YouTube URL Hyphenator</h3>
-  <label class="switch">
-    <input type="checkbox" id="toggleSwitch">
-    <span class="slider round"></span>
-  </label>
-  <span id="statusText">Enabled</span>
+  <h3>YouTube Ads Remover</h3>
+
+  <div class="toggle-container">
+    <label class="switch">
+      <input type="checkbox" id="toggleSwitch">
+      <span class="slider round"></span>
+    </label>
+    <span id="statusText">Enabled</span>
+  </div>
+
+  <hr>
+  <button id="reloadButton">Reload Current Page</button>
 
   <script src="popup.js"></script>
 </body>
