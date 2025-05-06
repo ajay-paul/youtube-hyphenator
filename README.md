@@ -1,9 +1,9 @@
-# YouTube Ads-Free Redirector
+# Youtube-hyphenator
 
 ![icon128](https://github.com/user-attachments/assets/9c4b2acd-04f9-4384-a002-3d47a8a1f1e3)
 
 
-**Watch YouTube without ads!** This simple Chrome extension offers a potential method for an **ads-free YouTube experience**.
+**Watch YouTube without interruptions** This simple Chrome extension offers a potential method for an **interruption free YouTube experience**.
 
 **Disclaimer:** This relies on the external `yout-ube.com` service, **not affiliated with YouTube/Google**.
 
